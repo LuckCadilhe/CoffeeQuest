@@ -3,7 +3,7 @@
 
 **Versão:** 0.1 (Draft)
 **Data:** 2026-04-22
-**Autor:** Ricardo Coelho
+**Autor:** Lucas Cadilhe
 **Status:** Discovery / Alinhamento
 
 ---
