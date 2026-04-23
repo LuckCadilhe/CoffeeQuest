@@ -233,7 +233,7 @@ Acesse `http://localhost:3000`
 
 ## 📬 Contato
 
-**Ricardo Coelho** — Autor e Product Owner  
+**Lucas Cadilhe** — Autor e Product Owner  
 Projeto em fase de Discovery / Alinhamento — v0.1
 
 ---
